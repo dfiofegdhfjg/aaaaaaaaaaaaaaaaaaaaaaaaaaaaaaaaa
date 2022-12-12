@@ -45,3 +45,5 @@ local Button = Tab:CreateButton({
         game.Players.LocalPlayer.Character.Humanoid.Health = 10000000
 	end,
 })
+
+Rayfield:Destroy()
